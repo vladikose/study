@@ -1,8 +1,9 @@
 .app.dark {
-    --bg-color: #2a2f31;
+    --bg-color: #1e1e22; /* Углубленный фоновый цвет для большей глубины */
     --inverted-bg-color: #f0f2f3;
-    --primary-color: #356af0;
-    --secondary-color: #9ec5fa;
-    --inverted-primary-color: #2a2f31;
-    --inverted-secondary-color: #4c5458;
+    --primary-color: #f5f5f5; /* немного смягчённый цвет для менее резкого контраста */
+    --secondary-color: #7fb3e3; /* Более натуральный и приятный цвет */
+    --inverted-primary-color: #4a9ae1; /* Немного темнее для улучшения контраста */
+    --inverted-secondary-color: #a0cfe4; /* Тоже смягчённый, более теплый цвет */
+    --white-color: #f5f5f5;
 }

@@ -18,11 +18,13 @@ const Template: ComponentStory<typeof Button> = (args) => <Button {...args} />;
 export const Primary = Template.bind({});
 Primary.args = {
     children: 'Button',
+    theme: ThemeButton.PRIMARY,
 };
 
 export const PrimaryDark = Template.bind({});
 PrimaryDark.args = {
     children: 'Button',
+    theme: ThemeButton.PRIMARY,
 };
 PrimaryDark.decorators = [ThemeDecorator(Theme.DARK)];
 
