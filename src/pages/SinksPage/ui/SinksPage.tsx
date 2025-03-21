@@ -14,7 +14,7 @@ const SinksPage = () => {
     return (
         <ApolloProvider client={client}>
             <div>
-                <h2>{t('Мойки')}</h2>
+                <h2>{t('Мойки123')}</h2>
                 <ShopLoad />
             </div>
         </ApolloProvider>
