@@ -2,6 +2,8 @@
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
     " Beatae commodi dolore id necessitatibus nemo quasi quisquam, sunt tempore tenetur! At consequuntur cum deserunt ex expedita ipsum, labore natus nihil unde?": " Beatae commodi dolore id necessitatibus nemo quasi quisquam, sunt tempore tenetur! At consequuntur cum deserunt ex expedita ipsum, labore natus nihil unde?"
   },
+  "decrement": "decrement",
+  "increment": "increment",
   "throw error": "throw error",
   "Войти": "Войти",
   "Главная": "Главная",
