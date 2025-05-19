@@ -8,5 +8,15 @@
   "перекл": "toggle",
   "Страница не найдена": "Page not found",
   "Произошла непредвиденная ошибка": "Random error",
-  "Обновить страницу": "Reload page"
+  "Обновить страницу": "Reload page",
+  "decrement": "decrement",
+  "increment": "increment",
+  "throw error": "throw error",
+  "Войти": "Login",
+  "Вы ввели неверный логин или пароль": "Wrong login or password",
+  "Форма логина": "Login form",
+  "логин": "login",
+  "открыть": "open",
+  "пароль": "password",
+  "переключить": "switch"
 }
