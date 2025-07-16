@@ -17,6 +17,13 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "first": "Владек",
+    "lastname": "Давыдов",
+    "age": "31",
+    "currency": "RUB",
+    "country": "Russia",
+    "City": "Saint-Petersburg",
+    "username": "admin",
+    "avatar": "https://omoikiri.ru/product/av.png"
   }
 }
