@@ -18,6 +18,11 @@
     color: var(--primary-color);
 }
 
+.outline_red {
+    border: 1px solid var(--red-light);
+    color: var(--red-light);
+}
+
 .primary {
     color: var(--white-color);
     background-color: var(--inverted-primary-color);

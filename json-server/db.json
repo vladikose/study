@@ -1,13 +1,37 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "a title 2", "views": 100 },
-    { "id": "3", "title": "a title 3", "views": 100 },
-    { "id": "4", "title": "a title 4", "views": 100 }
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "a title 2",
+      "views": 100
+    },
+    {
+      "id": "3",
+      "title": "a title 3",
+      "views": 100
+    },
+    {
+      "id": "4",
+      "title": "a title 4",
+      "views": 100
+    }
   ],
   "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
   ],
   "users": [
     {
@@ -17,12 +41,12 @@
     }
   ],
   "profile": {
-    "first": "Владек",
+    "first": "Владик",
     "lastname": "Давыдов",
-    "age": "31",
+    "age": 31,
     "currency": "RUB",
     "country": "Russia",
-    "City": "Saint-Petersburg",
+    "city": "Санкт-Петербург",
     "username": "admin",
     "avatar": "https://omoikiri.ru/product/av.png"
   }

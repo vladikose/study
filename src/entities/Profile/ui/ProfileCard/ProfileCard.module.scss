@@ -3,19 +3,19 @@
     border: 1px solid var(--inverted-bg-color);
 }
 
-.header {
+.loading,
+.error {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
 }
 
-.editBtn {
-    margin-left: auto;
-
+.avatarWrapper {
+    display: flex;
+    justify-content: center;
 }
 
-.data {
-    margin-top: 30px;
-}
-
-input {
-
+.editing {
+    border: 1px solid var(--inverted-primary-color);
 }
