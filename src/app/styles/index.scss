@@ -27,5 +27,7 @@ body {
 .page-wrapper {
     width: calc(100% - var(--sidebar-width));
     flex-grow: 1;
-    padding: 25px;
+    padding: 25px 25px 25px 50px;
+    height: calc(100vh - var(--navbar-height));
+    overflow-y: auto;
 }

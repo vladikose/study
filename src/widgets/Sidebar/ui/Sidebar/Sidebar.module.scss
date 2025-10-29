@@ -19,6 +19,10 @@
     height: 30px;
 }
 
+.theme_switcher svg {
+    fill: var(--inverted-primary-color);
+}
+
 .items {
     padding: 25px;
     display: flex;

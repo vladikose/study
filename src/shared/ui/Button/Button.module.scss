@@ -6,6 +6,11 @@
     background: none;
     outline: none;
     border: none;
+
+    &:hover {
+        opacity: 0.8;
+        fill-opacity: 0.8;
+    }
 }
 
 .clear {
@@ -35,7 +40,7 @@
 }
 
 .backgroundInverted {
-    background: var(--inverted-primary-color);
+    background: var(--primary-color);
     color: var(--bg-color);
     border: none;
 }
